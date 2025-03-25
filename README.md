@@ -55,7 +55,6 @@
 
 <h3>💻 Software and Tools</h3>
   <p>
-      <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
       <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellijidea&logoColor=white"></a>
       <a href="#"><img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse-2C2255.svg?logo=eclipseide&logoColor=white"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
