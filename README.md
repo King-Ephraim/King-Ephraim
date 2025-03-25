@@ -76,6 +76,5 @@ You can click the Preview link to take a look at your changes.
 ![KPONOU's GitHub Stats](https://github-readme-stats.vercel.app/api?username=King-Ephraim&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=King-Ephraim&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=King-Ephraim&show_icons=true&theme=radical)
-
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=King-Ephraim&theme=radical)
