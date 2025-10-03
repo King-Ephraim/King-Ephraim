@@ -31,8 +31,21 @@
      <a href="https://github.com/search?q=user%3Atchindou+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3Atchindou+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
      <a href="https://github.com/search?q=user%3Atchindou+JavaFX"><img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-1a72b8.svg?logo=java&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3Atchindou+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white"></a>
-  
+    <a href="https://github.com/search?q=user%3Atchindou+language%3Ac"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white"></a>
+    <a href="https://jakarta.ee/">
+    <img alt="Jakarta EE" src="https://img.shields.io/badge/Jakarta%20EE-2A4E6E.svg?logo=eclipse&logoColor=white">
+  </a>
+
+  <!-- JSF -->
+  <a href="https://jakarta.ee/specifications/faces/">
+    <img alt="JSF" src="https://img.shields.io/badge/JSF-9400D3.svg?logo=java&logoColor=white">
+  </a>
+
+  <!-- EJB -->
+  <a href="https://jakarta.ee/specifications/ejb/">
+    <img alt="EJB" src="https://img.shields.io/badge/EJB-FF6600.svg?logo=java&logoColor=white">
+  </a>
+
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
@@ -49,6 +62,23 @@
   <p>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="https://hibernate.org/">
+    <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C.svg?logo=hibernate&logoColor=white">
+  </a>
+
+  <!-- JPA -->
+  <a href="https://jakarta.ee/specifications/persistence/">
+    <img alt="JPA" src="https://img.shields.io/badge/JPA-007396.svg?logo=java&logoColor=white">
+  </a>
+   <!-- Tomcat -->
+  <a href="http://tomcat.apache.org/">
+    <img alt="Apache Tomcat" src="https://img.shields.io/badge/Tomcat-F8DC75.svg?logo=apache-tomcat&logoColor=black">
+  </a>
+
+  <!-- Payara -->
+  <a href="https://www.payara.fish/">
+    <img alt="Payara" src="https://img.shields.io/badge/Payara-FF6600.svg?logo=payara&logoColor=white">
+  </a>
   </p>
 
 
